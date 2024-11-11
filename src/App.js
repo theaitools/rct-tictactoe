@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React through Aj
+          Learn React through AjN
         </a>
       </header>
     </div>
